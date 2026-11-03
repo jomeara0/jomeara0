@@ -26,7 +26,7 @@ I'm currently seeking opportunities in **IT Support, Help Desk, Desktop Support,
 
 ## 💼 Hands-On IT Experience
 
-### Windows Endpoint Management Deployment
+### [Windows Endpoint Management Deployment](https://github.com/jomeara0/windows-endpoint-management)
 **Idea Lab Kids | June 2025**
 
 - Deployed Microsoft Entra ID and Intune for 12 Windows 11 systems.
