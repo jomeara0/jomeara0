@@ -11,7 +11,7 @@ I'm currently seeking opportunities in **IT Support, Help Desk, Desktop Support,
 
 ---
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
 | Category | Technologies & Skills |
 |---|---|
@@ -24,7 +24,7 @@ I'm currently seeking opportunities in **IT Support, Help Desk, Desktop Support,
 
 ---
 
-## 💼 Hands-On IT Experience
+##  Hands-On IT Experience
 
 ### [Windows Endpoint Management Deployment](https://github.com/jomeara0/windows-endpoint-management)
 **Idea Lab Kids | June 2025**
@@ -36,7 +36,7 @@ I'm currently seeking opportunities in **IT Support, Help Desk, Desktop Support,
 
 ---
 
-## 🚀 Technical Projects
+##  Technical Projects
 
 I'm building a portfolio to document my technical experience, personal projects, and continued learning.
 
@@ -51,7 +51,7 @@ Detailed project repositories and documentation will be added as they're complet
 
 ---
 
-## 🎓 Education & Certifications
+##  Education & Certifications
 
 **Central Piedmont Community College**
 - Associate of Applied Science — Information Technology: Cybersecurity
@@ -66,7 +66,7 @@ Detailed project repositories and documentation will be added as they're complet
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 I'm always interested in connecting with IT professionals, exploring opportunities, and continuing to learn.
 
